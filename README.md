@@ -1,2 +1,2 @@
 # jogo-da-forca
-A game made with pure python
+Um game de terminal feito com python puro
